@@ -1,7 +1,6 @@
 0.0.0.0 a8.com
 0.0.0.0 a8.net
 0.0.0.0 intowow.applefeed.com.tw
-0.0.0.0 adex*.bmediaasia.com
 0.0.0.0 cb.baidu.com
 0.0.0.0 cbjs.baidu.com
 0.0.0.0 cpro.baidu.com
@@ -25,7 +24,6 @@
 0.0.0.0 tanx.com
 0.0.0.0 vpon.com
 0.0.0.0 partnerads.ysm.yahoo.com
-0.0.0.0 ad*.on.cc
 0.0.0.0 promotion.aliyun.com
 
 0.0.0.0 4chan-ads.org
@@ -62,7 +60,6 @@
 0.0.0.0 bnserving.com
 0.0.0.0 admob.com
 0.0.0.0 adnotch.com
-0.0.0.0 ads*-adnow.com
 0.0.0.0 adsota.com
 0.0.0.0 offerwall-adnative.com
 0.0.0.0 adspeed.com
