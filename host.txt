@@ -25,7 +25,6 @@
 0.0.0.0 vpon.com
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 promotion.aliyun.com
-0.0.0.0 s.saavn.com
 0.0.0.0 4chan-ads.org
 0.0.0.0 33across.com
 0.0.0.0 tynt.com
